@@ -63,6 +63,12 @@ class _HomepageState extends State<Homepage> {
                   showDialog(context: context, builder: (context)=> CommentPopUp());
                 }),
 
+            TextButton(
+                onPressed: (){
+                  //todo update phone's sql database
+               },
+                child: Text("Your local version is up to date")
+            )
             //todo add file a report to NACCA?
           ],
         ),
