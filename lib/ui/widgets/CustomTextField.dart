@@ -3,9 +3,11 @@ import 'package:flutter/material.dart';
 
 class CustomTextField extends StatefulWidget {
   final String hintText;
+  final IconData icon;
 
   CustomTextField({
-    this.hintText
+    this.hintText,
+    this.icon
 });
 
   @override
@@ -15,9 +17,16 @@ class CustomTextField extends StatefulWidget {
 class _CustomTextFieldState extends State<CustomTextField> {
   @override
   Widget build(BuildContext context) {
-    return TextField(
-      decoration: InputDecoration(
-        hintText: widget.hintText,
+    Size size = MediaQuery.of(context).size;
+
+
+    return Container(
+      width: size.width * 0.85,
+      child: TextField(
+        decoration: InputDecoration(
+          hintText: widget.hintText,
+          icon: Icon(widget.icon)
+        ),
       ),
     );
   }
