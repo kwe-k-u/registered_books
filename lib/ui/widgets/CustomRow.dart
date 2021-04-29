@@ -1,20 +1,24 @@
 import 'package:flutter/material.dart';
 
 
+
+
+
+
+
 DataRow BookDataRow ({
-  @required int sn,
+  @required String sn,
   @required String title,
   @required String bookType,
   @required String subject,
   @required String isbn,
   @required String author,
   @required String publisher,
-  @required String level
+  @required String level,
 }){
-
   return DataRow(
     cells: [
-      DataCell(Text(sn.toString())),
+      DataCell(Text(sn)),
       DataCell(Text(title)),
       DataCell(Text(subject)),
       DataCell(Text(isbn)),

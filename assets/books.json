@@ -1,0 +1,2213 @@
+{
+"1" : {
+	
+"s/n" : "1",
+"subject" : "Mathematics",
+"title" : "Approachers Series Mathematics  Learners Book 1",
+"isbn" : "978-9988-8930-6-4",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "Alexander Quansah and Benjamin Amankwah"
+	},
+"2" : {
+	
+"s/n" : "2",
+"subject" : "Mathematics",
+"title" : "Approachers Series Mathematics Worbook 1",
+"isbn" : "978-9988-8930-6-4",
+"level" : "Basic 1",
+"type" : "Workbook",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "Alexander Quansah and Benjamin Amankwah"
+	},
+"3" : {
+	
+"s/n" : "3",
+"subject" : "Mathematics",
+"title" : "Approachers Series Mathematics Teacher’s Guide 1",
+"isbn" : "978-9988-8930-9-5",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "Alexander Quansah and Benjamin Amankwah"
+	},
+"4" : {
+	
+"s/n" : "4",
+"subject" : "Mathematics",
+"title" : "Approachers Series Mathematics  Learners Book 2",
+"isbn" : "978-9988-8930-6-4",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "Alexander Quansah and Benjamin Amankwah"
+	},
+"5" : {
+	
+"s/n" : "5",
+"subject" : "Mathematics",
+"title" : "Approachers Series Mathematics Workbook 2",
+"isbn" : "978-9988-8930-6-4",
+"level" : "Basic 2",
+"type" : "Workbook",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "Alexander Quansah and Benjamin Amankwah"
+	},
+"6" : {
+	
+"s/n" : "6",
+"subject" : "Mathematics",
+"title" : "Approachers Series Mathematics Teacher’s Guide 2",
+"isbn" : "978-9988-8931-0-1",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "Alexander Quansah and Benjamin Amankwah"
+	},
+"7" : {
+	
+"s/n" : "7",
+"subject" : "Mathematics",
+"title" : "Approachers Series Mathematics  Learners Book 3",
+"isbn" : "978-9988-8930-8-8",
+"level" : "Basic 3",
+"type" : "Learner Book",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "Alexander Quansah and Benjamin Amankwah"
+	},
+"8" : {
+	
+"s/n" : "8",
+"subject" : "Mathematics",
+"title" : "Approachers Series Mathematics Workbook",
+"isbn" : "978-9988-8930-8-8",
+"level" : "Basic 3",
+"type" : "Workbook",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "Alexander Quansah and Benjamin Amankwah"
+	},
+"9" : {
+	
+"s/n" : "9",
+"subject" : "Mathematics",
+"title" : "Approachers Series Mathematics Teacher’s Guide",
+"isbn" : "978-9988-8931-1-8",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "Alexander Quansah and Benjamin Amankwah"
+	},
+"10" : {
+	
+"s/n" : "10",
+"subject" : "Science",
+"title" : "Approachers Series Science  Learners Book 1",
+"isbn" : "978-9988-8930-0-2",
+"level" : "Basic 1",
+"type" : "Learner Book",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "A.K.B Obeng"
+	},
+"11" : {
+	
+"s/n" : "11",
+"subject" : "Science",
+"title" : "Approachers Series Science Workbook 1",
+"isbn" : "978-9988-8930-0-2",
+"level" : "Basic 1",
+"type" : "Workbook",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "A.K.B Obeng"
+	},
+"12" : {
+	
+"s/n" : "12",
+"subject" : "Science",
+"title" : "Approachers Series Science Teacher’s Guide 1",
+"isbn" : "978-9988-8930-3-3",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "A.K.B Obeng"
+	},
+"13" : {
+	
+"s/n" : "13",
+"subject" : "Science",
+"title" : "Approachers Series Science  Learners Book 2",
+"isbn" : "978-9988-8930-1-9",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "A.K.B Obeng"
+	},
+"14" : {
+	
+"s/n" : "14",
+"subject" : "Science",
+"title" : "Approachers Series Science Workbook 2",
+"isbn" : "978-9988-8930-1-9",
+"level" : "Basic 2",
+"type" : "Workbook",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "A.K.B Obeng"
+	},
+"15" : {
+	
+"s/n" : "15",
+"subject" : "Science",
+"title" : "Approachers Series Science Teacher’s Guide 2",
+"isbn" : "978-9988-8930-4-0",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "A.K.B Obeng"
+	},
+"16" : {
+	
+"s/n" : "16",
+"subject" : "Science",
+"title" : "Approachers Series Science  Learners Book 3",
+"isbn" : "978-9988-8930-2-6",
+"level" : "Basic 3",
+"type" : "Learners",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "A.K.B Obeng"
+	},
+"17" : {
+	
+"s/n" : "17",
+"subject" : "Science",
+"title" : "Approachers Series Science Workbook  3",
+"isbn" : "978-9988-8930-2-6",
+"level" : "Basic 3",
+"type" : "Workbook",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "A.K.B Obeng"
+	},
+"18" : {
+	
+"s/n" : "18",
+"subject" : "Science",
+"title" : "Approachers Series Science Teacher’s Guide 3",
+"isbn" : "978-9988-8930-5-7",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Approachers Ghana Ltd",
+"author" : "A.K.B Obeng"
+	},
+"19" : {
+	
+"s/n" : "19",
+"subject" : "History",
+"title" : "History Of Ghana Learners Book 1",
+"isbn" : "978-9988-0-4833-4",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"20" : {
+	
+"s/n" : "20",
+"subject" : "History",
+"title" : "History Of Ghana Teacher’s Guide 1",
+"isbn" : "978-9988-0-4839-6",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"21" : {
+	
+"s/n" : "21",
+"subject" : "History",
+"title" : "History Of Ghana Learners Book 2",
+"isbn" : "978-9988-0-4834-1",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"22" : {
+	
+"s/n" : "22",
+"subject" : "History",
+"title" : "History Of Ghana Teacher’s Guide 2",
+"isbn" : "978-9988-0-4840-2",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"23" : {
+	
+"s/n" : "23",
+"subject" : "History",
+"title" : "History Of Ghana Learners Book 3",
+"isbn" : "978-9988-0-4835-8",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"24" : {
+	
+"s/n" : "24",
+"subject" : "History",
+"title" : "History Of Ghana Teacher’s Guide 3",
+"isbn" : "978-9988-0-4841-9",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"25" : {
+	
+"s/n" : "25",
+"subject" : "History",
+"title" : "History Of Ghana Learners Book 4",
+"isbn" : "978-9988-0-4842-6",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"26" : {
+	
+"s/n" : "26",
+"subject" : "History",
+"title" : "History Of Ghana Teacher’s Guide 4",
+"isbn" : "978-9988-0-4842-6",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"27" : {
+	
+"s/n" : "27",
+"subject" : "History",
+"title" : "History Of Ghana Learners Book 5",
+"isbn" : "978-9988-0-4837-2",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"28" : {
+	
+"s/n" : "28",
+"subject" : "History",
+"title" : "History Of Ghana Teacher’s Guide 5",
+"isbn" : "978-9988-0-4843-3",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"29" : {
+	
+"s/n" : "29",
+"subject" : "History",
+"title" : "History Of Ghana Learners Book 6",
+"isbn" : "978-9988-0-4838-9",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"30" : {
+	
+"s/n" : "30",
+"subject" : "History",
+"title" : "History Of Ghana Teacher’s Guide 6",
+"isbn" : "978-9988-0-4844-0",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "Winmat Publishers Ltd",
+"author" : "Bruno Osafo and Peter Boakye"
+	},
+"31" : {
+	
+"s/n" : "31",
+"subject" : "Science",
+"title" : "Science for Primary School Learners Book 4",
+"isbn" : "978-9988-8905-9-9",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "Prof-Quarm Publication",
+"author" : "Joseph Albert Quarm and Robert Francis Addai"
+	},
+"32" : {
+	
+"s/n" : "32",
+"subject" : "Science",
+"title" : "Science for Primary School Workbook 4",
+"isbn" : "978-9988-8906-2-9",
+"level" : "Basic 4",
+"type" : "Workbook",
+"publisher" : "Prof-Quarm Publication",
+"author" : "Joseph Albert Quarm and Robert Francis Addai"
+	},
+"33" : {
+	
+"s/n" : "33",
+"subject" : "Science",
+"title" : "Science for Primary School Teacher’s Guide 4",
+"isbn" : "978-9988-8906-5-0",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "Prof-Quarm Publication",
+"author" : "Joseph Albert Quarm and Robert Francis Addai"
+	},
+"34" : {
+	
+"s/n" : "34",
+"subject" : "Science",
+"title" : "Science for Primary School Learners Book 5",
+"isbn" : "978-9988-8906-0-5",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "Prof-Quarm Publication",
+"author" : "Joseph Albert Quarm and Robert Francis Addai"
+	},
+"35" : {
+	
+"s/n" : "35",
+"subject" : "Science",
+"title" : "Science for Primary School Workbook 5",
+"isbn" : "978-9988-8906-3-6",
+"level" : "Basic 5",
+"type" : "Workbook",
+"publisher" : "Prof-Quarm Publication",
+"author" : "Joseph Albert Quarm and Robert Francis Addai"
+	},
+"36" : {
+	
+"s/n" : "36",
+"subject" : "Science",
+"title" : "Science for Primary School Teacher’s Guide  5",
+"isbn" : "978-9988-8906-6-7",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "Prof-Quarm Publication",
+"author" : "Joseph Albert Quarm and Robert Francis Addai"
+	},
+"37" : {
+	
+"s/n" : "37",
+"subject" : "Science",
+"title" : "Science for Primary School Learners Book 6",
+"isbn" : "978-9988-8906-1-2",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "Prof-Quarm Publication",
+"author" : "Joseph Albert Quarm and Robert Francis Addai"
+	},
+"38" : {
+	
+"s/n" : "38",
+"subject" : "Science",
+"title" : "Science for Primary School Workbook 6",
+"isbn" : "978-9988-8906-4-3",
+"level" : "Basic 6",
+"type" : "Workbook",
+"publisher" : "Prof-Quarm Publication",
+"author" : "Joseph Albert Quarm and Robert Francis Addai"
+	},
+"39" : {
+	
+"s/n" : "39",
+"subject" : "Science",
+"title" : "Science for Primary School Teacher’s Guide  6",
+"isbn" : "978-9988-8906-7-4",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "Prof-Quarm Publication",
+"author" : "Joseph Albert Quarm and Robert Francis Addai"
+	},
+"40" : {
+	
+"s/n" : "40",
+"subject" : "English Language",
+"title" : "English Language for Primary School Learners Book 4",
+"isbn" : "978-9964-70-594-7",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "Afram Publications Ghana Ltd",
+"author" : "Rosa Mamaa Sam and Daniel Kodzo Doe"
+	},
+"41" : {
+	
+"s/n" : "41",
+"subject" : "English Language",
+"title" : "English Language for Primary School Workbook 4",
+"isbn" : "979-9964-70-606-7",
+"level" : "Basic 4",
+"type" : "Workbook",
+"publisher" : "Afram Publications Ghana Ltd",
+"author" : "Rosa Mamaa Sam and Daniel Kodzo Doe"
+	},
+"42" : {
+	
+"s/n" : "42",
+"subject" : "English Language",
+"title" : "English Language for Primary School Teacher’s Guide 4",
+"isbn" : "978-9964-70-600-5",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "Afram Publications Ghana Ltd",
+"author" : "Rosa Mamaa Sam and Daniel Kodzo Doe"
+	},
+"43" : {
+	
+"s/n" : "43",
+"subject" : "English Language",
+"title" : "English Language for Primary School Learners Book 5",
+"isbn" : "978-9964-70-595-4",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "Afram Publications Ghana Ltd",
+"author" : "Rosa Mamaa Sam and Daniel Kodzo Doe"
+	},
+"44" : {
+	
+"s/n" : "44",
+"subject" : "English Language",
+"title" : "English Language for Primary School Workbook 5",
+"isbn" : "978-9964-70-607-4",
+"level" : "Basic 5",
+"type" : "Workbook",
+"publisher" : "Afram Publications Ghana Ltd",
+"author" : "Rosa Mamaa Sam and Daniel Kodzo Doe"
+	},
+"45" : {
+	
+"s/n" : "45",
+"subject" : "English Language",
+"title" : "English Language for Primary School Teacher’s Guide 5",
+"isbn" : "978-9964-70-601-2",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "Afram Publications Ghana Ltd",
+"author" : "Rosa Mamaa Sam and Daniel Kodzo Doe"
+	},
+"46" : {
+	
+"s/n" : "46",
+"subject" : "English Language",
+"title" : "English Language for Primary School Learners Book 6",
+"isbn" : "978-9964-70-596-1",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "Afram Publications Ghana Ltd",
+"author" : "Rosa Mamaa Sam and Daniel Kodzo Doe"
+	},
+"47" : {
+	
+"s/n" : "47",
+"subject" : "English Language",
+"title" : "English Language for Primary School Workbook 6",
+"isbn" : "978-9964-70-608-1",
+"level" : "Basic 6",
+"type" : "Workbook",
+"publisher" : "Afram Publications Ghana Ltd",
+"author" : "Rosa Mamaa Sam and Daniel Kodzo Doe"
+	},
+"48" : {
+	
+"s/n" : "48",
+"subject" : "English Language",
+"title" : "English Language for Primary School Teacher’s Guide 6",
+"isbn" : "978-9964-70-602-9",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "Afram Publications Ghana Ltd",
+"author" : "Rosa Mamaa Sam and Daniel Kodzo Doe"
+	},
+"49" : {
+	
+"s/n" : "49",
+"subject" : "Computing",
+"title" : "Computing for Basic 4",
+"isbn" : "978-9988-8651-3-9",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "Emmanuel Books and Stationery Ltd",
+"author" : "Solomon Owusu and Nana Boakye- Acheampong"
+	},
+"50" : {
+	
+"s/n" : "50",
+"subject" : "Computing",
+"title" : "Computing Teacher’s Guide 4",
+"isbn" : "978-9988-54-327-3",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "Emmanuel Books and Stationery Ltd",
+"author" : "Solomon Owusu and Nana Boakye- Acheampong"
+	},
+"51" : {
+	
+"s/n" : "51",
+"subject" : "Computing",
+"title" : "Computing for Basic 5",
+"isbn" : "978-9988-8651-4-6",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "Emmanuel Books and Stationery Ltd",
+"author" : "Solomon Owusu and Nana Boakye- Acheampong"
+	},
+"52" : {
+	
+"s/n" : "52",
+"subject" : "Computing",
+"title" : "Computing Teacher’s Guide 5",
+"isbn" : "978-9988-54-328-0",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "Emmanuel Books and Stationery Ltd",
+"author" : "Solomon Owusu and Nana Boakye- Acheampong"
+	},
+"53" : {
+	
+"s/n" : "53",
+"subject" : "Computing",
+"title" : "Computing for Basic 6",
+"isbn" : "978-9988-8651-5-3",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "Emmanuel Books and Stationery Ltd",
+"author" : "Solomon Owusu and Nana Boakye- Acheampong"
+	},
+"54" : {
+	
+"s/n" : "54",
+"subject" : "Computing",
+"title" : "Computing Teacher’s Guide 6",
+"isbn" : "978-9988-8651-5-3",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "Emmanuel Books and Stationery Ltd",
+"author" : "Solomon Owusu and Nana Boakye- Acheampong"
+	},
+"55" : {
+	
+"s/n" : "55",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Learners Book 1",
+"isbn" : "978-9988-54-183-x",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"56" : {
+	
+"s/n" : "56",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Teacher’s Guide  1",
+"isbn" : "978-9988-9012-6-4",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"57" : {
+	
+"s/n" : "57",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Learners Book  2",
+"isbn" : "978-9988-54-184-8",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"58" : {
+	
+"s/n" : "58",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Teacher’s Guide  2",
+"isbn" : "978-9988-9012-7-1",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"59" : {
+	
+"s/n" : "59",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Learners Book 3",
+"isbn" : "978-9988-54-185-6",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"60" : {
+	
+"s/n" : "60",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Teacher’s Guide  3",
+"isbn" : "978-9988-9012-8-8",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"61" : {
+	
+"s/n" : "61",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Learners Book 4",
+"isbn" : "978-9988-54-186-4",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"62" : {
+	
+"s/n" : "62",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Teacher’s Guide  4",
+"isbn" : "978-9988-9012-9-5",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"63" : {
+	
+"s/n" : "63",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Learners Book 5",
+"isbn" : "978-9988-54-187-2",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"64" : {
+	
+"s/n" : "64",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Teacher’s Guide  5",
+"isbn" : "978-9988-9013-0-1",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"65" : {
+	
+"s/n" : "65",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Learners Book 6",
+"isbn" : "978-9988-54-188-0",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"66" : {
+	
+"s/n" : "66",
+"subject" : "Religious and Moral Education",
+"title" : "Religious and Moral Education Teacher’s Guide  6",
+"isbn" : "978-9988-9013-1-8",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publication",
+"author" : "Eric K. Akordia and Cynthia E. Addo"
+	},
+"67" : {
+	
+"s/n" : "67",
+"subject" : "Mathematics",
+"title" : "Adwinsa Mathematics Learners Book 1",
+"isbn" : "978-9988-577-91-9",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Fritz Mawuli Darkey, Dodzi George Agbazo and Zion Daniel Dorvlo"
+	},
+"68" : {
+	
+"s/n" : "68",
+"subject" : "Mathematics",
+"title" : "Adwinsa Mathematics Workbook 1",
+"isbn" : "978-9988-577-12-4",
+"level" : "Basic 1",
+"type" : "Workbook",
+"publisher" : "Adwinsa  Publications",
+"author" : "Fritz Mawuli Darkey, Dodzi George Agbazo and Zion Daniel Dorvlo"
+	},
+"69" : {
+	
+"s/n" : "69",
+"subject" : "Mathematics",
+"title" : "Adwinsa Mathematics Teacher’s Guide 1",
+"isbn" : "978-9988-577-23-0",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Fritz Mawuli Darkey, Dodzi George Agbazo and Zion Daniel Dorvlo"
+	},
+"70" : {
+	
+"s/n" : "70",
+"subject" : "Mathematics",
+"title" : "Adwinsa Mathematics Learners Book 2",
+"isbn" : "978-9988-577-35-3",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Fritz Mawuli Darkey, Dodzi George Agbazo and Zion Daniel Dorvlo"
+	},
+"71" : {
+	
+"s/n" : "71",
+"subject" : "Mathematics",
+"title" : "Adwinsa Mathematics Workbook 2",
+"isbn" : "978-9988-577-24-7",
+"level" : "Basic 2",
+"type" : "Workbook",
+"publisher" : "Adwinsa  Publications",
+"author" : "Fritz Mawuli Darkey, Dodzi George Agbazo and Zion Daniel Dorvlo"
+	},
+"72" : {
+	
+"s/n" : "72",
+"subject" : "Mathematics",
+"title" : "Adwinsa Mathematics Teacher’s Guide 2",
+"isbn" : "978-9988-577-49-0",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Fritz Mawuli Darkey, Dodzi George Agbazo and Zion Daniel Dorvlo"
+	},
+"73" : {
+	
+"s/n" : "73",
+"subject" : "Mathematics",
+"title" : "Adwinsa Mathematics Learners Book 3",
+"isbn" : "978-9988-577-61-2",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Fritz Mawuli Darkey, Dodzi George Agbazo and Zion Daniel Dorvlo"
+	},
+"74" : {
+	
+"s/n" : "74",
+"subject" : "Mathematics",
+"title" : "Adwinsa Mathematics Workbook 3",
+"isbn" : "978-9988-577-03-2",
+"level" : "Basic 3",
+"type" : "Workbook",
+"publisher" : "Adwinsa  Publications",
+"author" : "Fritz Mawuli Darkey, Dodzi George Agbazo and Zion Daniel Dorvlo"
+	},
+"75" : {
+	
+"s/n" : "75",
+"subject" : "Mathematics",
+"title" : "Adwinsa Mathematics Teacher’s Guide 3",
+"isbn" : "978-9988-577-52-0",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Fritz Mawuli Darkey, Dodzi George Agbazo and Zion Daniel Dorvlo"
+	},
+"76" : {
+	
+"s/n" : "76",
+"subject" : "Computing",
+"title" : "Adwinsa Computing Learners Book 4",
+"isbn" : "978-9988-577-32-2",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Wiafe Owusu Bannahene Phd"
+	},
+"77" : {
+	
+"s/n" : "77",
+"subject" : "Computing",
+"title" : "Adwinsa Computing Teacher’s Guide 4",
+"isbn" : "978-9988-577-05-6",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Wiafe Owusu Bannahene Phd"
+	},
+"78" : {
+	
+"s/n" : "78",
+"subject" : "Computing",
+"title" : "Adwinsa Computing Learners Book 5",
+"isbn" : "978-9988-577-71-1",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Wiafe Owusu Bannahene Phd"
+	},
+"79" : {
+	
+"s/n" : "79",
+"subject" : "Computing",
+"title" : "Adwinsa Computing Teacher’s Guide 5",
+"isbn" : "978-9988-577-44-5",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Wiafe Owusu Bannahene Phd"
+	},
+"80" : {
+	
+"s/n" : "80",
+"subject" : "Computing",
+"title" : "Adwinsa Computing Learners Book 6",
+"isbn" : "978-9988-577-97-1",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Wiafe Owusu Bannahene Phd"
+	},
+"81" : {
+	
+"s/n" : "81",
+"subject" : "Computing",
+"title" : "Adwinsa Computing Teacher’s Guide 6",
+"isbn" : "978-9988-577-00-1",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Wiafe Owusu Bannahene Phd"
+	},
+"82" : {
+	
+"s/n" : "82",
+"subject" : "French",
+"title" : "Adwinsa  Bonjour, Amis Learners Book 4",
+"isbn" : "978-9988-577-34-6",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Paul Kumi"
+	},
+"83" : {
+	
+"s/n" : "83",
+"subject" : "French",
+"title" : "Adwinsa  Bonjour, Amis Teacher’s Guide 4",
+"isbn" : "978-9988-577-07-0",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Paul Kumi"
+	},
+"84" : {
+	
+"s/n" : "84",
+"subject" : "French",
+"title" : "Adwinsa  Bonjour, Amis Learners Book 5",
+"isbn" : "978-9988-577-72-8",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Paul Kumi"
+	},
+"85" : {
+	
+"s/n" : "85",
+"subject" : "French",
+"title" : "Adwinsa  Bonjour, Amis Teacher’s Guide 5",
+"isbn" : "978-9988-577-46-9",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Paul Kumi"
+	},
+"86" : {
+	
+"s/n" : "86",
+"subject" : "French",
+"title" : "Adwinsa  Bonjour, Amis Learners Book 6",
+"isbn" : "978-9988-577-75-9",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Paul Kumi"
+	},
+"87" : {
+	
+"s/n" : "87",
+"subject" : "French",
+"title" : "Adwinsa  Bonjour, Amis Teacher’s Guide 6",
+"isbn" : "978-9988-577-84-1",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Paul Kumi"
+	},
+"88" : {
+	
+"s/n" : "88",
+"subject" : "Science",
+"title" : "Essential Science Learners Book 1",
+"isbn" : "978-9988-8974-8-2",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "John Wilberforce Essiah"
+	},
+"89" : {
+	
+"s/n" : "89",
+"subject" : "Science",
+"title" : "Essential Science Workbook  1",
+"isbn" : "978-1108-9288-1-6",
+"level" : "Basic 1",
+"type" : "Workbook",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "John Wilberforce Essiah"
+	},
+"90" : {
+	
+"s/n" : "90",
+"subject" : "Science",
+"title" : "Essential Science Teacher’s Guide 1",
+"isbn" : "978-9988-8974-9-9",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "John Wilberforce Essiah"
+	},
+"91" : {
+	
+"s/n" : "91",
+"subject" : "Science",
+"title" : "Essential Science Learners Book 2",
+"isbn" : "978-9988-8975-0-5",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "John Wilberforce Essiah"
+	},
+"92" : {
+	
+"s/n" : "92",
+"subject" : "Science",
+"title" : "Essential Science Workbook  2",
+"isbn" : "978-1108-9288-2-3",
+"level" : "Basic 2",
+"type" : "Workbook",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "John Wilberforce Essiah"
+	},
+"93" : {
+	
+"s/n" : "93",
+"subject" : "Science",
+"title" : "Essential Science Teacher’s Guide 2",
+"isbn" : "978-9988-8975-1-2",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "John Wilberforce Essiah"
+	},
+"94" : {
+	
+"s/n" : "94",
+"subject" : "Science",
+"title" : "Essential Science Learners Book 3",
+"isbn" : "978-9988-8975-2-9",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "John Wilberforce Essiah"
+	},
+"95" : {
+	
+"s/n" : "95",
+"subject" : "Science",
+"title" : "Essential Science Workbook  3",
+"isbn" : "978-1108-9288-3-0",
+"level" : "Basic 3",
+"type" : "Workbook",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "John Wilberforce Essiah"
+	},
+"96" : {
+	
+"s/n" : "96",
+"subject" : "Science",
+"title" : "Essential Science Teacher’s Guide 3",
+"isbn" : "978-9988-8975-3-6",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "John Wilberforce Essiah"
+	},
+"97" : {
+	
+"s/n" : "97",
+"subject" : "Science",
+"title" : "Science Made Easy Learners Book 4",
+"isbn" : "978-9988-8889-7-8",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "Kabkork Publication",
+"author" : "V. A. AdoteyeM. K. Caesar"
+	},
+"98" : {
+	
+"s/n" : "98",
+"subject" : "Science",
+"title" : "Science Made Easy Workbook 4",
+"isbn" : "978-9988-8589-6-4",
+"level" : "Basic 4",
+"type" : "Workbook",
+"publisher" : "Kabkork Publication",
+"author" : "V. A. AdoteyeM. K. Caesar"
+	},
+"99" : {
+	
+"s/n" : "99",
+"subject" : "Science",
+"title" : "Science Made Easy Teacher’s Guide 4",
+"isbn" : "978-9988-8889-9-2",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "Kabkork Publication",
+"author" : "V. A. AdoteyeM. K. Caesar"
+	},
+"100" : {
+	
+"s/n" : "100",
+"subject" : "Science",
+"title" : "Science Made Easy Learners Book 5",
+"isbn" : "978-9988-9019-0-5",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "Kabkork Publication",
+"author" : "V. A. AdoteyeM. K. Caesar"
+	},
+"101" : {
+	
+"s/n" : "101",
+"subject" : "Science",
+"title" : "Science Made Easy Workbook 5",
+"isbn" : "978-9988-8589-7-1",
+"level" : "Basic 5",
+"type" : "Workbook",
+"publisher" : "Kabkork Publication",
+"author" : "V. A. AdoteyeM. K. Caesar"
+	},
+"102" : {
+	
+"s/n" : "102",
+"subject" : "Science",
+"title" : "Science Made Easy Teacher’s Guide 5",
+"isbn" : "978-9988-9019-1-2",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "Kabkork Publication",
+"author" : "V. A. AdoteyeM. K. Caesar"
+	},
+"103" : {
+	
+"s/n" : "103",
+"subject" : "Science",
+"title" : "Science Made Easy Learners Book 6",
+"isbn" : "978-9988-9019-2-9",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "Kabkork Publication",
+"author" : "V. A. AdoteyeM. K. Caesar"
+	},
+"104" : {
+	
+"s/n" : "104",
+"subject" : "Science",
+"title" : "Science Made Easy Workbook 6",
+"isbn" : "978-9988-8589-8-8",
+"level" : "Basic 6",
+"type" : "Workbook",
+"publisher" : "Kabkork Publication",
+"author" : "V. A. AdoteyeM. K. Caesar"
+	},
+"105" : {
+	
+"s/n" : "105",
+"subject" : "Science",
+"title" : "Science Made Easy Teacher’s Guide 6",
+"isbn" : "978-9988-9019-3-6",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "Kabkork Publication",
+"author" : "V. A. AdoteyeM. K. Caesar"
+	},
+"106" : {
+	
+"s/n" : "106",
+"subject" : "Religious and Moral Education",
+"title" : "Adwinsa Religious and Moral Education Learners Book 1",
+"isbn" : "978-9988-577-28-5",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"107" : {
+	
+"s/n" : "107",
+"subject" : "Religious and Moral Education",
+"title" : "Adwinsa Religious and Moral Education Teacher’s Guide  1",
+"isbn" : "978-9988-577-37-7",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"108" : {
+	
+"s/n" : "108",
+"subject" : "Religious and Moral Education",
+"title" : "Adwinsa Religious and Moral Education Learners Book 2",
+"isbn" : "978-9964-577-67-4",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"109" : {
+	
+"s/n" : "109",
+"subject" : "Religious and Moral Education",
+"title" : "Adwinsa Religious and Moral Education Teacher’s Guide  2",
+"isbn" : "978-9988-577-40-7",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"110" : {
+	
+"s/n" : "110",
+"subject" : "Religious and Moral Education",
+"title" : "Adwinsa Religious and Moral Education Learners Book 3",
+"isbn" : "978-9988-557-11-7",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"111" : {
+	
+"s/n" : "111",
+"subject" : "Religious and Moral Education",
+"title" : "Adwinsa Religious and Moral Education Teacher’s Guide  3",
+"isbn" : "978-9988-577-79-7",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"112" : {
+	
+"s/n" : "112",
+"subject" : "Mathematics",
+"title" : "Mathematics Made Easy Learners Book 1",
+"isbn" : "978-9988-9019-4-3",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Kabkork Publication",
+"author" : "K. A. AgyedabiD. D. SackiteyS. R. Nuertey"
+	},
+"113" : {
+	
+"s/n" : "113",
+"subject" : "Mathematics",
+"title" : "Mathematics Made Easy Workbook 1",
+"isbn" : "978-9988-8517-7-4",
+"level" : "Basic 1",
+"type" : "Workbook",
+"publisher" : "Kabkork Publication",
+"author" : "K. A. AgyedabiD. D. SackiteyS. R. Nuertey"
+	},
+"114" : {
+	
+"s/n" : "114",
+"subject" : "Mathematics",
+"title" : "Mathematics Made Easy Teacher’s Guide 1",
+"isbn" : "978-9988-9019-5-0",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Kabkork Publication",
+"author" : "K. A. AgyedabiD. D. SackiteyS. R. Nuertey"
+	},
+"115" : {
+	
+"s/n" : "115",
+"subject" : "Mathematics",
+"title" : "Mathematics Made Easy Learners Book 2",
+"isbn" : "978-9988-9019-6-7",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Kabkork Publication",
+"author" : "K. A. AgyedabiD. D. SackiteyS. R. Nuertey"
+	},
+"116" : {
+	
+"s/n" : "116",
+"subject" : "Mathematics",
+"title" : "Mathematics Made Easy Workbook 2",
+"isbn" : "978-9988-8517-9-8",
+"level" : "Basic 2",
+"type" : "Workbook",
+"publisher" : "Kabkork Publication",
+"author" : "K. A. AgyedabiD. D. SackiteyS. R. Nuertey"
+	},
+"117" : {
+	
+"s/n" : "117",
+"subject" : "Mathematics",
+"title" : "Mathematics Made Easy Teacher’s Guide 2",
+"isbn" : "978-9988-9019-7-4",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Kabkork Publication",
+"author" : "K. A. AgyedabiD. D. SackiteyS. R. Nuertey"
+	},
+"118" : {
+	
+"s/n" : "118",
+"subject" : "Mathematics",
+"title" : "Mathematics Made Easy Learners Book 3",
+"isbn" : "978-9988-9019-8-1",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Kabkork Publication",
+"author" : "K. A. AgyedabiD. D. SackiteyS. R. Nuertey"
+	},
+"119" : {
+	
+"s/n" : "119",
+"subject" : "Mathematics",
+"title" : "Mathematics Made Easy Workbook 3",
+"isbn" : "978-9988-8517-8-1",
+"level" : "Basic 3",
+"type" : "Workbook",
+"publisher" : "Kabkork Publication",
+"author" : "K. A. AgyedabiD. D. SackiteyS. R. Nuertey"
+	},
+"120" : {
+	
+"s/n" : "120",
+"subject" : "Mathematics",
+"title" : "Mathematics Made Easy Teacher’s Guide 3",
+"isbn" : "978-9988-9019-9-8",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Kabkork Publication",
+"author" : "K. A. AgyedabiD. D. SackiteyS. R. Nuertey"
+	},
+"121" : {
+	
+"s/n" : "121",
+"subject" : "Mathematics",
+"title" : "Kwadwoan Mathematics Learners Book 1",
+"isbn" : "978-9988-2-2706-7",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Kwadwoan Publishing",
+"author" : "Dora Mireku and Benjamin Ayerkain"
+	},
+"122" : {
+	
+"s/n" : "122",
+"subject" : "Mathematics",
+"title" : "Kwadwoan Mathematics Workbook 1",
+"isbn" : "978-9988-2-2706-7",
+"level" : "Basic 1",
+"type" : "Workbook",
+"publisher" : "Kwadwoan Publishing",
+"author" : "Dora Mireku and Benjamin Ayerkain"
+	},
+"123" : {
+	
+"s/n" : "123",
+"subject" : "Mathematics",
+"title" : "Kwadwoan Mathematics Teacher’s Guide 1",
+"isbn" : "978-9988-2-2710-4",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Kwadwoan Publishing",
+"author" : "Dora Mireku and Benjamin Ayerkain"
+	},
+"124" : {
+	
+"s/n" : "124",
+"subject" : "Mathematics",
+"title" : "Kwadwoan Mathematics Learners Book 2",
+"isbn" : "978-9988-2-2708-1",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Kwadwoan Publishing",
+"author" : "Dora Mireku and Benjamin Ayerkain"
+	},
+"125" : {
+	
+"s/n" : "125",
+"subject" : "Mathematics",
+"title" : "Kwadwoan Mathematics Workbook 2",
+"isbn" : "978-9988-2-2708-1",
+"level" : "Basic 2",
+"type" : "Workbook",
+"publisher" : "Kwadwoan Publishing",
+"author" : "Dora Mireku and Benjamin Ayerkain"
+	},
+"126" : {
+	
+"s/n" : "126",
+"subject" : "Mathematics",
+"title" : "Kwadwoan Mathematics Teacher’s Guide 2",
+"isbn" : "978-9988-2-2711-1",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Kwadwoan Publishing",
+"author" : "Dora Mireku and Benjamin Ayerkain"
+	},
+"127" : {
+	
+"s/n" : "127",
+"subject" : "Mathematics",
+"title" : "Kwadwoan Mathematics Learners Book 3",
+"isbn" : "978-9988-2-2709-8",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Kwadwoan Publishing",
+"author" : "Dora Mireku and Benjamin Ayerkain"
+	},
+"128" : {
+	
+"s/n" : "128",
+"subject" : "Mathematics",
+"title" : "Kwadwoan Mathematics Workbook 3",
+"isbn" : "978-9988-2-2709-8",
+"level" : "Basic 3",
+"type" : "Workbook",
+"publisher" : "Kwadwoan Publishing",
+"author" : "Dora Mireku and Benjamin Ayerkain"
+	},
+"129" : {
+	
+"s/n" : "129",
+"subject" : "Mathematics",
+"title" : "Kwadwoan Mathematics Teacher’s Guide 3",
+"isbn" : "978-9988-2-2712-8",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Kwadwoan Publishing",
+"author" : "Dora Mireku and Benjamin Ayerkain"
+	},
+"130" : {
+	
+"s/n" : "130",
+"subject" : "Mathematics",
+"title" : "Best Brain Mathematics Learners Book 1",
+"isbn" : "978-9988-8716-1-1",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Best Brain Publication",
+"author" : "Henric Atta Baah-Yeboah"
+	},
+"131" : {
+	
+"s/n" : "131",
+"subject" : "Mathematics",
+"title" : "Best Brain Mathematics Workbook 1",
+"isbn" : "978-9988-8716-0-4",
+"level" : "Basic 1",
+"type" : "Workbook",
+"publisher" : "Best Brain Publication",
+"author" : "Henric Atta Baah-Yeboah"
+	},
+"132" : {
+	
+"s/n" : "132",
+"subject" : "Mathematics",
+"title" : "Best Brain Mathematics Teacher’s Guide 1",
+"isbn" : "978-9988-8716-9-7",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Best Brain Publication",
+"author" : "Henric Atta Baah-Yeboah"
+	},
+"133" : {
+	
+"s/n" : "133",
+"subject" : "Mathematics",
+"title" : "Best Brain Mathematics Learners Book 2",
+"isbn" : "978-9988-8716-2-8",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Best Brain Publication",
+"author" : "Henric Atta Baah-Yeboah"
+	},
+"134" : {
+	
+"s/n" : "134",
+"subject" : "Mathematics",
+"title" : "Best Brain Mathematics Workbook 2",
+"isbn" : "978-9988-8716-7-3",
+"level" : "Basic 2",
+"type" : "Workbook",
+"publisher" : "Best Brain Publication",
+"author" : "Henric Atta Baah-Yeboah"
+	},
+"135" : {
+	
+"s/n" : "135",
+"subject" : "Mathematics",
+"title" : "Best Brain Mathematics Teacher’s Guide 2",
+"isbn" : "978-9988-8717-0-3",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Best Brain Publication",
+"author" : "Henric Atta Baah-Yeboah"
+	},
+"136" : {
+	
+"s/n" : "136",
+"subject" : "Mathematics",
+"title" : "Best Brain Mathematics Learners Book 3",
+"isbn" : "978-9988-8716-3-5",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Best Brain Publication",
+"author" : "Henric Atta Baah-Yeboah"
+	},
+"137" : {
+	
+"s/n" : "137",
+"subject" : "Mathematics",
+"title" : "Best Brain Mathematics Workbook 3",
+"isbn" : "978-9988-8716-8-0",
+"level" : "Basic 3",
+"type" : "Workbook",
+"publisher" : "Best Brain Publication",
+"author" : "Henric Atta Baah-Yeboah"
+	},
+"138" : {
+	
+"s/n" : "138",
+"subject" : "Mathematics",
+"title" : "Best Brain Mathematics Teacher’s Guide 3",
+"isbn" : "978-9988-8717-7-2",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Best Brain Publication",
+"author" : "Henric Atta Baah-Yeboah"
+	},
+"139" : {
+	
+"s/n" : "139",
+"subject" : "French",
+"title" : "Essential French Learners Book 4",
+"isbn" : "978-9988-8964-2-3",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Sandra Gil, David Agbeli and Bright Kudjawu"
+	},
+"140" : {
+	
+"s/n" : "140",
+"subject" : "French",
+"title" : "Essential French Teacher’s Guide 4",
+"isbn" : "978-9988-8964-3-0",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Sandra Gil, David Agbeli and Bright Kudjawu"
+	},
+"141" : {
+	
+"s/n" : "141",
+"subject" : "French",
+"title" : "Essential French Learners Book 5",
+"isbn" : "978-9988-8964-4-7",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Sandra Gil, David Agbeli and Bright Kudjawu"
+	},
+"142" : {
+	
+"s/n" : "142",
+"subject" : "French",
+"title" : "Essential French Teacher’s Guide 5",
+"isbn" : "978-9988-8964-5-4",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Sandra Gil, David Agbeli and Bright Kudjawu"
+	},
+"143" : {
+	
+"s/n" : "143",
+"subject" : "French",
+"title" : "Essential French Learners Book 6",
+"isbn" : "978-9988-8964-6-1",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Sandra Gil, David Agbeli and Bright Kudjawu"
+	},
+"144" : {
+	
+"s/n" : "144",
+"subject" : "French",
+"title" : "Essential French Teacher’s Guide 6",
+"isbn" : "978-9988-8964-7-8",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Sandra Gil, David Agbeli and Bright Kudjawu"
+	},
+"145" : {
+	
+"s/n" : "145",
+"subject" : "Computing",
+"title" : "Essential Computing Learners Guide 4",
+"isbn" : "978-9-988-89648-5",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Silas Hilbbert and Victoria Wright"
+	},
+"146" : {
+	
+"s/n" : "146",
+"subject" : "Computing",
+"title" : "Essential Computing Teacher’s Guide 4",
+"isbn" : "978-9-988-89649-2",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Silas Hilbbert and Victoria Wright"
+	},
+"147" : {
+	
+"s/n" : "147",
+"subject" : "Computing",
+"title" : "Essential Computing Learners Guide 5",
+"isbn" : "978-9-988-89650-8",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Silas Hilbbert and Victoria Wright"
+	},
+"148" : {
+	
+"s/n" : "148",
+"subject" : "Computing",
+"title" : "Essential Computing Teacher’s Guide 5",
+"isbn" : "978-9-988-89651-5",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Silas Hilbbert and Victoria Wright"
+	},
+"149" : {
+	
+"s/n" : "149",
+"subject" : "Computing",
+"title" : "Essential Computing Learners Guide 6",
+"isbn" : "978-9-988-89652-2",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Silas Hilbbert and Victoria Wright"
+	},
+"150" : {
+	
+"s/n" : "150",
+"subject" : "Computing",
+"title" : "Essential Computing Teacher’s Guide 6",
+"isbn" : "978-9-988-89653-9",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Silas Hilbbert and Victoria Wright"
+	},
+"151" : {
+	
+"s/n" : "151",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our  People Learners Book 1",
+"isbn" : "978-9988-8973-6-9",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"152" : {
+	
+"s/n" : "152",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our  People Teacher’s Guide 1",
+"isbn" : "978-9988-8973-7-6",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"153" : {
+	
+"s/n" : "153",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our People Learners Book 2",
+"isbn" : "978-9988-8973-8-3",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"154" : {
+	
+"s/n" : "154",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our People Teacher’s Guide 2",
+"isbn" : "978-9988-8973-9-0",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"155" : {
+	
+"s/n" : "156",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our People Learners Book 3",
+"isbn" : "978-9988-8974-0-6",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"156" : {
+	
+"s/n" : "157",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our People Teacher’s Guide 3",
+"isbn" : "978-9988-8974-1-3",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"157" : {
+	
+"s/n" : "158",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our People Learners Book 4",
+"isbn" : "978-9988-8974-2-0",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"158" : {
+	
+"s/n" : "159",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our People  Teacher’s Guide 4",
+"isbn" : "978-9988-8974-3-7",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"159" : {
+	
+"s/n" : "160",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our People Learners Book 5",
+"isbn" : "978-9988-8974-4-4",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"160" : {
+	
+"s/n" : "161",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our People Teacher’s Guide 5",
+"isbn" : "978-9988-8974-5-1",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"161" : {
+	
+"s/n" : "162",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our People Learners Book 6",
+"isbn" : "978-9988-8974-6-8",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"162" : {
+	
+"s/n" : "163",
+"subject" : "Our World and Our People",
+"title" : "Essential Our World and Our People Teacher’s Guide 6",
+"isbn" : "978-9988-8974-7-5",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "NNF Esquire Ltd &amp; Cambridge University Press",
+"author" : "Jacob Agbedam and Dorothy Glover"
+	},
+"163" : {
+	
+"s/n" : "164",
+"subject" : "Our World and Our People",
+"title" : "Adwinsa  Our World and Our People  Learners Book1",
+"isbn" : "978-9988-577-42-1",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Adwinsa Publication",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"164" : {
+	
+"s/n" : "165",
+"subject" : "Our World and Our People",
+"title" : "Adwinsa  Our World and Our People  Teacher’s Guide 1",
+"isbn" : "978-9988-577-60-5",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa Publication",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"165" : {
+	
+"s/n" : "166",
+"subject" : "Our World and Our People",
+"title" : "Adwinsa  Our World and Our People  Learners Book 2",
+"isbn" : "978-9988-577-81-0",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Adwinsa Publication",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"166" : {
+	
+"s/n" : "167",
+"subject" : "Our World and Our People",
+"title" : "Adwinsa  Our World and Our People  Teacher’s Guide 2",
+"isbn" : "978-988-577-63-6",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa Publication",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"167" : {
+	
+"s/n" : "168",
+"subject" : "Our World and Our People",
+"title" : "Adwinsa  Our World and Our People  Learners Book 3",
+"isbn" : "978-9988-577-27-8",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Adwinsa Publication",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"168" : {
+	
+"s/n" : "169",
+"subject" : "Our World and Our People",
+"title" : "Adwinsa  Our World and Our People  Teacher’s Guide 3",
+"isbn" : "978-9988-577-90-2",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa Publication",
+"author" : "Kwaku Oppong Amponsah and Ebenezer Asare"
+	},
+"169" : {
+	
+"s/n" : "170",
+"subject" : "French",
+"title" : "Le Monde Francis Learners Book 4",
+"isbn" : "978-9988-53-241-3",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "Black Mask Limited",
+"author" : ""
+	},
+"170" : {
+	
+"s/n" : "171",
+"subject" : "French",
+"title" : "Le Monde FrancisTeacher’s Guide 4",
+"isbn" : "978-9988-53-246-8",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "Black Mask Limited",
+"author" : "Andreas Awute, Janvier Emmanuel Agbotome and Phidelia Awute"
+	},
+"171" : {
+	
+"s/n" : "172",
+"subject" : "French",
+"title" : "Le Monde Francis Learners Book 5",
+"isbn" : "978-9988-53-242-0",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "Black Mask Limited",
+"author" : "Andreas Awute, Janvier Emmanuel Agbotome and Phidelia Awute"
+	},
+"172" : {
+	
+"s/n" : "173",
+"subject" : "French",
+"title" : "Le Monde FrancisTeacher’s Guide 5",
+"isbn" : "978-9988-53-246-8",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "Black Mask Limited",
+"author" : "Andreas Awute, Janvier Emmanuel Agbotome and Phidelia Awute"
+	},
+"173" : {
+	
+"s/n" : "174",
+"subject" : "French",
+"title" : "Le Monde Francis Learners Book 6",
+"isbn" : "978-9988-53-243-7",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "Black Mask Limited",
+"author" : "Andreas Awute, Janvier Emmanuel Agbotome and Phidelia Awute"
+	},
+"174" : {
+	
+"s/n" : "175",
+"subject" : "French",
+"title" : "Le Monde FrancisTeacher’s Guide 6",
+"isbn" : "978-9988-53-242-0",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "Black Mask Limited",
+"author" : "Andreas Awute, Janvier Emmanuel Agbotome and Phidelia Awute"
+	},
+"175" : {
+	
+"s/n" : "176",
+"subject" : "History",
+"title" : "A History of Ghana for Basic Schools Learners Book 1",
+"isbn" : "978-9988-8915-0-3",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Frangipani Books Limited",
+"author" : "Abyna-Ansaa Adjei"
+	},
+"176" : {
+	
+"s/n" : "177",
+"subject" : "History",
+"title" : "A History of Ghana for Basic Schools Workbook 1",
+"isbn" : "978-9988-8915-1-0",
+"level" : "Basic 1",
+"type" : "Workbook",
+"publisher" : "Frangipani Books Limited",
+"author" : "Abyna-Ansaa Adjei"
+	},
+"177" : {
+	
+"s/n" : "178",
+"subject" : "History",
+"title" : "A History of Ghana for Basic Schools Teacher’s Guide 1",
+"isbn" : "978-9988-8915-2-7",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Frangipani Books Limited",
+"author" : "Abyna-Ansaa Adjei"
+	},
+"178" : {
+	
+"s/n" : "179",
+"subject" : "History",
+"title" : "A History of Ghana for Basic Schools Learners Book 2",
+"isbn" : "978-9988-8915-3-4",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Frangipani Books Limited",
+"author" : "Abyna-Ansaa Adjei"
+	},
+"179" : {
+	
+"s/n" : "180",
+"subject" : "History",
+"title" : "A History of Ghana for Basic Schools Workbook 2",
+"isbn" : "978-9988-8915-5-8",
+"level" : "Basic 2",
+"type" : "Workbook",
+"publisher" : "Frangipani Books Limited",
+"author" : "Abyna-Ansaa Adjei"
+	},
+"180" : {
+	
+"s/n" : "181",
+"subject" : "History",
+"title" : "A History of Ghana for Basic Schools Teacher’s Guide 2",
+"isbn" : "978-9988-8915-4-1",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Frangipani Books Limited",
+"author" : "Abyna-Ansaa Adjei"
+	},
+"181" : {
+	
+"s/n" : "182",
+"subject" : "History",
+"title" : "A History of Ghana for Basic Schools Learners Book 3",
+"isbn" : "978-9988-8915-9-6",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Frangipani Books Limited",
+"author" : "Abyna-Ansaa Adjei"
+	},
+"182" : {
+	
+"s/n" : "183",
+"subject" : "History",
+"title" : "A History of Ghana for Basic Schools Workbook 3",
+"isbn" : "978-9988-8915-7-2",
+"level" : "Basic 3",
+"type" : "Workbook",
+"publisher" : "Frangipani Books Limited",
+"author" : "Abyna-Ansaa Adjei"
+	},
+"183" : {
+	
+"s/n" : "184",
+"subject" : "History",
+"title" : "A History of Ghana for Basic Schools Teacher’s Guide 3",
+"isbn" : "978-9988-8915-8-9",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Frangipani Books Limited",
+"author" : "Abyna-Ansaa Adjei"
+	},
+"184" : {
+	
+"s/n" : "185",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Learners Book 1",
+"isbn" : "978-9988-9013-2-5",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"185" : {
+	
+"s/n" : "186",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Teacher’s Guide 1",
+"isbn" : "978-9988-9013-8-7",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"186" : {
+	
+"s/n" : "187",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Learners Book 2",
+"isbn" : "978-9988-9013-3-2",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"187" : {
+	
+"s/n" : "188",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Teacher’s Guide 2",
+"isbn" : "978-9988-9013-9-4",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"188" : {
+	
+"s/n" : "189",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Learners Book 3",
+"isbn" : "978-9988-9013-4-9",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"189" : {
+	
+"s/n" : "190",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Teacher’s Guide 3",
+"isbn" : "978-9988-9014-0-0",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"190" : {
+	
+"s/n" : "191",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Learners Book 4",
+"isbn" : "978-9988-9013-5-6",
+"level" : "Basic 4",
+"type" : "Learners Book",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"191" : {
+	
+"s/n" : "192",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Teacher’s Guide 4",
+"isbn" : "978-9988-9014-1-7",
+"level" : "Basic 4",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"192" : {
+	
+"s/n" : "193",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Learners Book 5",
+"isbn" : "978-9988-9013-6-3",
+"level" : "Basic 5",
+"type" : "Learners Book",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"193" : {
+	
+"s/n" : "194",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Teacher’s Guide 5",
+"isbn" : "978-9988-9014-2-4",
+"level" : "Basic 5",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"194" : {
+	
+"s/n" : "195",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Learners Book 6",
+"isbn" : "978-9988-9013-7-0",
+"level" : "Basic 6",
+"type" : "Learners Book",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"195" : {
+	
+"s/n" : "196",
+"subject" : "History",
+"title" : "History of Ghana for Basic Schools Teacher’s Guide 6",
+"isbn" : "978-9988-9014-3-1",
+"level" : "Basic 6",
+"type" : "Teacher’s Guide",
+"publisher" : "Masterman Publications Ltd",
+"author" : "Cyril K. Attipoe"
+	},
+"196" : {
+	
+"s/n" : "197",
+"subject" : "History",
+"title" : "Adwinsa History of Ghana for Basic Schools Learners Book 1",
+"isbn" : "978-9988-577-82-1",
+"level" : "Basic 1",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Bernice Oteng and Rosemary Osei"
+	},
+"197" : {
+	
+"s/n" : "198",
+"subject" : "History",
+"title" : "Adwinsa History of Ghana for Basic Schools Teacher’s Guide 1",
+"isbn" : "789-9988-577-55-1",
+"level" : "Basic 1",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Bernice Oteng and Rosemary Osei"
+	},
+"198" : {
+	
+"s/n" : "199",
+"subject" : "History",
+"title" : "Adwinsa History of Ghana for Basic Schools Learners Book 2",
+"isbn" : "978-9988-577-13-1",
+"level" : "Basic 2",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Bernice Oteng and Rosemary Osei"
+	},
+"199" : {
+	
+"s/n" : "200",
+"subject" : "History",
+"title" : "Adwinsa History of Ghana for Basic Schools Teacher’s Guide 2",
+"isbn" : "789-9988-577-94-0",
+"level" : "Basic 2",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Bernice Oteng and Rosemary Osei"
+	},
+"200" : {
+	
+"s/n" : "201",
+"subject" : "History",
+"title" : "Adwinsa History of Ghana for Basic Schools Learners Book 3",
+"isbn" : "978-9988-577-16-2",
+"level" : "Basic 3",
+"type" : "Learners Book",
+"publisher" : "Adwinsa  Publications",
+"author" : "Bernice Oteng and Rosemary Osei"
+	},
+"201" : {
+	
+"s/n" : "202",
+"subject" : "History",
+"title" : "Adwinsa History of Ghana for Basic Schools Teacher’s Guide 3",
+"isbn" : "978-9988-577-25-4",
+"level" : "Basic 3",
+"type" : "Teacher’s Guide",
+"publisher" : "Adwinsa  Publications",
+"author" : "Bernice Oteng and Rosemary Osei"
+	}
+}
