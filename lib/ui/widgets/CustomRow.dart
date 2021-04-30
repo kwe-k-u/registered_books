@@ -4,6 +4,45 @@ import 'package:flutter/material.dart';
 
 
 
+class CustomListTile extends StatefulWidget {
+  @required final String sn;
+  @required final String title;
+  @required final String bookType;
+  @required final String subject;
+  @required final String isbn;
+  @required final String author;
+  @required final String publisher;
+  @required final String level;
+
+
+  CustomListTile({this.sn,
+    this.title,
+    this.bookType,
+    this.subject,
+    this.isbn,
+    this.author,
+    this.publisher,
+    this.level,});
+
+
+  @override
+  _CustomListTileState createState() => _CustomListTileState();
+}
+
+class _CustomListTileState extends State<CustomListTile> {
+  @override
+  Widget build(BuildContext context) {
+    return ListTile(
+      title: Text(widget.title),
+      subtitle: Text(widget.author),
+      leading: Column(
+        children: [
+
+        ],
+      ),
+    );
+  }
+}
 
 
 DataRow BookDataRow ({
