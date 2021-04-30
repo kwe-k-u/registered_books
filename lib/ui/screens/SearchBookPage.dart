@@ -81,7 +81,6 @@ class _SearchBookPageState extends State<SearchBookPage> {
                   text: "Search",
                   function: (){
                     //todo search
-
                   }
               ),
             )

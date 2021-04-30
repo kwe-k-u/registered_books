@@ -29,38 +29,21 @@ class _BookListPageState extends State<BookListPage> {
         future: getBookList(),
         builder: (context, snapshot) {
           if (snapshot.connectionState == ConnectionState.done) {
-            List<DataRow> rowList = [];
-            List<bool> selectedList = [];
-
-            snapshot.data.forEach((key, value) {
-              selectedList.add(false);
-              rowList.add(
-                  BookDataRow(
-                  sn: value["s/n"],
-                  title: value["title"],
-                  bookType: value["type"],
-                  subject: value["subject"],
-                  isbn: value["isbn"],
-                  author: value["author"],
-                  publisher: value["publisher"],
-
-                  level: value["level"]));
+            return ListView.builder(
+              itemCount: snapshot.data.length,
+                itemBuilder: (context,index){
+                Map<String, dynamic> map = snapshot.data[(index+1).toString()];
+                print(map);
+                  return CustomListTile(
+                    sn: map["s/n"],
+                      title: map["title"],
+                      bookType: map["type"],
+                      subject: map["subject"],
+                      isbn: map["isbn"],
+                      author: map["author"],
+                      publisher: map["publisher"],
+                      level: map["level"]);
             });
-            return BidirectionalScrollViewPlugin(
-              child: DataTable(
-                columns: [
-                  DataColumn(label: Text("S/n"), numeric: true),
-                  DataColumn(label: Text("Title of book"), numeric: false),
-                  DataColumn(label: Text("Subject"), numeric: false),
-                  DataColumn(label: Text("ISBN"), numeric: true),
-                  DataColumn(label: Text("Author"), numeric: false),
-                  DataColumn(label: Text("Publisher"), numeric: false),
-                  DataColumn(label: Text("Book Type"), numeric: false),
-                  DataColumn(label: Text("Level"), numeric: false),
-                ],
-                rows: rowList,
-              ),
-            );
           }
 
           return Container(
@@ -69,7 +52,9 @@ class _BookListPageState extends State<BookListPage> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
-              children: [CircularProgressIndicator(), Text("Loading books")],
+              children: [
+                CircularProgressIndicator(),
+                Text("Loading books")],
             ),
           );
         },
