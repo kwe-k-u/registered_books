@@ -1,22 +1,17 @@
 import 'dart:convert';
 
-import 'package:bidirectional_scroll_view/bidirectional_scroll_view.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:registered_books/ui/widgets/CustomRow.dart';
 
 class BookListPage extends StatefulWidget {
+  final Future future;
+
+  BookListPage( this.future);
   @override
   _BookListPageState createState() => _BookListPageState();
 }
 
 class _BookListPageState extends State<BookListPage> {
-  Future<Map<String, dynamic>> getBookList() async {
-    final String response = await rootBundle.loadString('assets/books.json');
-    final data = await json.decode(response);
-
-    return data;
-  }
 
   @override
   Widget build(BuildContext context) {
@@ -26,14 +21,16 @@ class _BookListPageState extends State<BookListPage> {
         centerTitle: true,
       ),
       body: FutureBuilder(
-        future: getBookList(),
+        future: widget.future,
         builder: (context, snapshot) {
           if (snapshot.connectionState == ConnectionState.done) {
+            if (snapshot.data.length == 0)
+              return Center(child: Text("No books"),);
             return ListView.builder(
               itemCount: snapshot.data.length,
                 itemBuilder: (context,index){
-                Map<String, dynamic> map = snapshot.data[(index+1).toString()];
-                print(map);
+                Map<String, dynamic> map = snapshot.data[snapshot.data.keys.elementAt(index)];
+
                   return CustomListTile(
                     sn: map["s/n"],
                       title: map["title"],
