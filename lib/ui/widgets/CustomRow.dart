@@ -184,6 +184,7 @@ class _CustomListTileState extends State<CustomListTile> {
         title: Text(widget.title, maxLines: 2, overflow: TextOverflow.ellipsis,),
         subtitle: Text(widget.author, maxLines:1, overflow: TextOverflow.ellipsis,),
         leading: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text("S/n"),
             Text(widget.sn),

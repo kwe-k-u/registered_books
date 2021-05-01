@@ -25,13 +25,13 @@ class _SearchBookPageState extends State<SearchBookPage> {
     final String response = await rootBundle.loadString('assets/books.json');
     final Map<String, dynamic> data = await json.decode(response);
     data.removeWhere((key, value) {
-      if (! value["title"].contains(titleController.text.toLowerCase().trim()))
+      if (titleController.text.isNotEmpty && !value["title"].toLowerCase().contains(titleController.text.toLowerCase().trim()))
         return true;
-      if (! value["author"].toLowerCase().contains(authorController.text.toLowerCase().trim()))
+      if (authorController.text.isNotEmpty && !value["author"].toLowerCase().contains(authorController.text.toLowerCase().trim()))
         return true;
-      if (! value["isbn"].toLowerCase().contains(isbnController.text.toLowerCase().trim()))
+      if (isbnController.text.isNotEmpty && !value["isbn"].toLowerCase().contains(isbnController.text.toLowerCase().trim()))
         return true;
-      if (! value["publisher"].toLowerCase().contains(publisherController.text.toLowerCase().trim()))
+      if (publisherController.text.isNotEmpty && !value["publisher"].toLowerCase().contains(publisherController.text.toLowerCase().trim()))
         return true;
 
       return false;
